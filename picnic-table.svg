@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="390mm"
+   height="390mm"
+   viewBox="0 0 390 390"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="picnic-table.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70822811"
+     inkscape:cx="521.72456"
+     inkscape:cy="736.34467"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="2713"
+     inkscape:window-y="1071"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="35,256.06864"
+       orientation="-1,0"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.72197"
+       id="rect1"
+       width="360"
+       height="125"
+       x="-180"
+       y="-145"
+       rx="4.92419"
+       ry="4.92419"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.72197"
+       id="rect1-1"
+       width="360"
+       height="125"
+       x="-180"
+       y="-275"
+       rx="4.92419"
+       ry="4.92419"
+       transform="rotate(90)" />
+    <path
+       id="rect2"
+       style="fill:#000000;stroke-width:0.646585"
+       d="M 14.999882,185.00008 0,285.00017 H 30.000236 L 45.000118,220 H 259.99988 l 14.99987,65.00017 h 30.00024 L 290.00012,185.00008 Z"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.22248"
+       id="rect3"
+       width="235"
+       height="3.0999999"
+       x="35"
+       y="200" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.434218"
+       id="rect3-2"
+       width="185"
+       height="15"
+       x="60"
+       y="185" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.293187"
+       id="rect4"
+       width="15"
+       height="3.0999999"
+       x="20"
+       y="150" />
+  </g>
+</svg>
