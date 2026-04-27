@@ -1,7 +1,9 @@
+# Picnic Table
 
+Design for a picnic table that can be cut from a single sheet of material, with no fasteners required.
 
-
-
+It is intended to be laser cut from plywood of similar.
+If you don't have access to a laser cutter, try printing the design on A3 paper and using that as a template to cut the parts by hand.
 
 ## Material thickness
 
