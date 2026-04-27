@@ -5,6 +5,8 @@ Design for a picnic table that can be cut from a single sheet of material, with 
 It is intended to be laser cut from plywood of similar.
 If you don't have access to a laser cutter, try printing the design on A3 paper and using that as a template to cut the parts by hand.
 
+The design consists of two parts, a top and a leg, which slot together to form the table. You will need two of each to assemble a table.
+
 ## Material thickness
 
 The design currently assumes it will be cut from 3mm thick material.
