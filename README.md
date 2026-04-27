@@ -19,7 +19,7 @@ Bite that the part design is mirrored, so you only need to edit the left side of
 
 The design was done in [Inkscape](https://inkscape.org/).
 
-It was mostly a matter of drawing the basic shape, doing some calculations to determine the size and position of the slots, cutting the slots with boolean difference operations, then deleting the right side of the design, rounding some corners on the left and mirroring it to the right.
+It was mostly a matter of drawing the basic shape, doing some calculations to determine the size and position of the slots, cutting the slots with Boolean difference operations, then deleting the right side of the design, rounding some corners on the left and mirroring it to the right.
 I made individual commits for most of these steps, so looking through the git history should allow you to follow along with the process.
 
 ## Licence
