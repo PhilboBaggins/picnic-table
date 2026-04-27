@@ -19,3 +19,11 @@ The design was done in [Inkscape](https://inkscape.org/).
 
 It was mostly a matter of drawing the basic shape, doing some calculations to determine the size and position of the slots, cutting the slots with boolean difference operations, then deleting the right side of the design, rounding some corners on the left and mirroring it to the right.
 I made individual commits for most of these steps, so looking through the git history should allow you to follow along with the process.
+
+## Licence
+
+Copyright © 2026 Phil Baldwin
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
